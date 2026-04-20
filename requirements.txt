@@ -1,1 +1,1 @@
-Weblate[all,postgres,wsgi]==5.17.1
+.[all,postgres,wsgi]
