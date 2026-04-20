@@ -10,7 +10,7 @@ import os
 import warnings
 from tempfile import TemporaryDirectory
 
-from weblate.settings_example import *  # noqa: F403
+from weblate.settings import *  # noqa: F403
 
 default_user = "postgres"
 default_name = "weblate"

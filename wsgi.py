@@ -1,0 +1,1 @@
+from weblate.wsgi import application  # noqa
